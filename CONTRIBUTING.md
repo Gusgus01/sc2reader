@@ -1,6 +1,7 @@
 Support
 =========
 
+
 For real-time support, please visit #sc2reader on the FreeNode.net IRC. For all other support please use the sc2reader@googlegroups.com mailing list or open an issue in the github tracker.
 
 Issues
